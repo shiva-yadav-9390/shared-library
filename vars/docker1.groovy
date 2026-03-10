@@ -1,3 +1,3 @@
 def call() {
-  sh "docker build -t shiva."
+  sh "docker build -t shiva ."
 }
