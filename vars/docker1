@@ -1,0 +1,3 @@
+def docker1() {
+  sh "docker build -t shiva."
+}
